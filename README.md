@@ -57,7 +57,7 @@ If you prefer self-hosting, follow the official [Frappe Bench Installation](http
 
 ### Codespaces
 
-1. Open [this link](https://github.com/codespaces/new?hide_repo_select=true&ref=master&repo=668199241&skip_quickstart=true&machine=standardLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&geo=SoutheastAsia) and click on "Create Codespace".
+1. Open [this link](https://github.com/codespaces/new?hide_repo_select=true&ref=master&repo=872880481&skip_quickstart=true&machine=standardLinux32gb&devcontainer_path=.devcontainer%2Fdevcontainer.json&geo=SoutheastAsia) and click on "Create Codespace".
 2. Wait for initialization (~15 mins).
 3. Run `bench start` from the terminal tab.
 4. Click on the link beside "8000" port under "Ports" tab.
